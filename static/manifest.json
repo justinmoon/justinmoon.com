@@ -1,0 +1,20 @@
+{
+	"background_color": "#ffffff",
+	"theme_color": "#159497",
+	"name": "Sapper v3",
+	"short_name": "Sapper v3",
+	"display": "minimal-ui",
+	"start_url": "/",
+	"icons": [
+		{
+			"src": "sapper-markdown-gl-192.png",
+			"sizes": "192x192",
+			"type": "image/png"
+		},
+		{
+			"src": "sapper-markdown-gl-512.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}
+	]
+}
